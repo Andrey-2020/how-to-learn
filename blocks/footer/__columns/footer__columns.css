@@ -1,0 +1,9 @@
+.footer__columns{
+    display: flex;
+    color:white;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin:60px auto 40px auto;
+    width: 90%;
+    box-sizing: border-box; 
+  }

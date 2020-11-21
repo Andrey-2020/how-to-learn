@@ -1,0 +1,6 @@
+.video__cell{
+    margin-right: 10px;
+}
+.video__cell:last-of-type{
+    margin-right: 0;   
+ }
